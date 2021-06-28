@@ -1,0 +1,7 @@
+item.ww3mod.phone1.name=Phone1
+tile.ww3mod.atm_north.name=ATM north
+tile.ww3mod.atm_south.name=ATM south
+tile.ww3mod.atm_east.name=ATM east
+tile.ww3mod.atm_west.name=ATM west
+menu.connecttoserver=Play at WW3
+itemGroup.division_tab=WW3 Tab
